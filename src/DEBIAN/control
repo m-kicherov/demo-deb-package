@@ -1,0 +1,10 @@
+Package: demo-deb-package
+Version: 0.1
+Section: unknown
+Priority: optional
+Depends: dpkg, systemd
+Architecture: all
+Essential: no
+Installed-Size: 10
+Maintainer: Maxim Kicherov <m.a.kicherov@gmail.com>
+Description: Demo package

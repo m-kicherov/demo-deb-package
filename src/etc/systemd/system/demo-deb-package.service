@@ -1,0 +1,5 @@
+[Unit]
+Description=Run package_me.sh
+
+[Service]
+ExecStart=/usr/bin/package_me.sh

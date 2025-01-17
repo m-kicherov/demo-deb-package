@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -e
+
+systemctl enable demo-deb-package.timer
+systemctl start demo-deb-package.timer
+
+exit 0

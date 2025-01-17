@@ -1,0 +1,7 @@
+#!/bin/bash
+set -e
+
+systemctl stop demo-deb-package.timer || true
+systemctl disable demo-deb-package.timer || true
+
+exit 0
