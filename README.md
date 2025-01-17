@@ -1,3 +1,5 @@
+[![ci](https://github.com/m-kicherov/demo-deb-package/actions/workflows/ci.yml/badge.svg)](https://github.com/m-kicherov/demo-deb-package/releases)
+
 # demo-deb-package
 Test task to creating deb package
 
